@@ -31,3 +31,12 @@ Mini-project using the public **AACT** (Aggregated Analysis of ClinicalTrials.go
 - Placebo — 160 mentions
 - Docetaxel — 146 mentions
 - Cyclophosphamide — 143 mentions
+
+
+**Intervention types — top 5**
+
+![Intervention types — top 5](screenshots/intervention_types_top5.png)
+
+**Common terms — top 5**
+
+![Common terms — top 5](screenshots/top_terms_top5.png)
