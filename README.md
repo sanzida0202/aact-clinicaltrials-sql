@@ -19,3 +19,15 @@ Mini-project using the public **AACT** (Aggregated Analysis of ClinicalTrials.go
 - Finding: Among prospective, completed, cancer-related trials in AACT, there are 5,949 distinct breast-cancer studies.
 - **Intervention type distribution (top lines):**
 
+
+**Intervention type distribution (top lines):**
+- drug — 2909 trials
+- other — 1164 trials
+- behavioral — 764 trials
+
+**Top common terms (biomarkers/keywords):**
+- Paclitaxel — 194 mentions
+- Trastuzumab — 171 mentions
+- Placebo — 160 mentions
+- Docetaxel — 146 mentions
+- Cyclophosphamide — 143 mentions
