@@ -14,6 +14,8 @@ Mini-project using the public **AACT** (Aggregated Analysis of ClinicalTrials.go
 3. Run each query in `02`, `03`, `04`.  
    - Export results (CSV) and take a screenshot of the grid.
 
-## Results (fill these after you run)
+## Results (After running)
 - **Breast cancer studies (distinct NCT IDs):** 5949
+- Finding: Among prospective, completed, cancer-related trials in AACT, there are 5,949 distinct breast-cancer studies.
 - **Intervention type distribution (top lines):**
+
